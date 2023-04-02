@@ -1,0 +1,9 @@
+[package]
+name = "emailparser"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+data-encoding = "2.3.3"
+quoted_printable = "0.4.6"
+charset = "0.1.3"
